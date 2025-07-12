@@ -7,7 +7,7 @@ Welcome to EcoFurball's content archive! This repository contains markdown versi
 - [Natural Pet Grooming at Home](https://ecofurball.com/natural-pet-grooming-at-home/)
 - [Eco Pet Clean-Up Tips](https://ecofurball.com/eco-pet-cleanup-tips/)
 - [Low-Waste Pet Products](https://ecofurball.com/low-waste-pet-products-eco-friendly-care/)
-- [Sustainable Feeding Tips](https://ecofurball.com/sustainable-pet-feeding-eco-friendly-options/)
+- [Sustainable Feeding Tips](https://ecofurball.com/sustainable-pet-food-practices/)
 
 📚 For more guides, visit:  
 👉 [EcoFurball.com](https://ecofurball.com)
