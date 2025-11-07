@@ -15,3 +15,4 @@ Welcome to EcoFurball's content archive! This repository contains markdown versi
 ---
 
 This content is maintained by [EcoFurball](https://ecofurball.com), a site dedicated to sustainable pet care and product education.
+<meta name="google-site-verification" content="fpTQ0q7LlSQottlXY9tU5TA1ZZJKmSzc2J1aLwRwRwE" />
